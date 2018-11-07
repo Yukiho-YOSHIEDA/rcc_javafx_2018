@@ -16,6 +16,8 @@ public class CheckHomo{
             if(input == 0){
                 isHomo = true;
             }
+
+            System.out.println("ホモは嘘つき");
         }
 
         System.out.println("やっぱりホモじゃないか！");
