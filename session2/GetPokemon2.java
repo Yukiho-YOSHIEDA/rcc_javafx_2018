@@ -13,20 +13,20 @@ public class GetPokemon2{
 
         scanner.close();
     }
-}
 
-/**
- * ユーザがどうやってポケモンを選んだらいいか
- * ガイドを表示するメソッド
- */
-private void printChooseGuide() {
+    /**
+     * ユーザがどうやってポケモンを選んだらいいか
+     * ガイドを表示するメソッド
+     */
+    private static void printChooseGuide() {
 
-}
+    }
 
-/**
- * ポケモンの番号を引数として
- * 番号に該当するポケモンを表示するメソッド
- */
-private void choosePokemon(int pokemonNum){
+    /**
+     * ポケモンの番号を引数として
+     * 番号に該当するポケモンを表示するメソッド
+     */
+    private static void choosePokemon(int pokemonNum){
 
+    }
 }
